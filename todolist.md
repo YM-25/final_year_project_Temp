@@ -1,5 +1,5 @@
 - list necessary packages
-    - start with online tutorial from UC
+    - start with online tutorial from biocircuit
 - start with plotting
     - Gillespie py
     - solve and plot ODEs
